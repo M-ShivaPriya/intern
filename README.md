@@ -25,26 +25,30 @@ Watch the complete screen recording of the interactive prototype:
 
 
 
+
 ## Task 3 – Backend Integration
 
-### Backend Service
-Firebase Cloud Firestore was explored and used as the backend database for the Task Management App.
+### Backend Services
+Worked with Firebase Cloud Firestore as the backend service for the Task Management App.
 
 ### Firestore Database
-- Created a Firestore database.
+- Created and configured a Firestore database.
 - Created a `tasks` collection.
 - Added and verified task documents.
-- Task data includes title, description, and status.
+- Managed task data including title, description, and status.
 
 ### REST API
-- Learned about REST APIs and Firestore REST API.
-- Tested API requests for retrieving task data.
-- Encountered authentication and permission errors during API testing.
+- Learned about REST API concepts.
+- Explored and tested Firestore REST API requests.
+- Worked with data retrieval through API requests.
 
 ### Error Handling and Debugging
-- Investigated API authentication and permission issues.
-- Verified the backend data directly through Firebase Console.
-- Confirmed that the `tasks` collection contains the required task data.
+- Investigated authentication and permission errors during API testing.
+- Debugged API-related issues.
+- Verified the stored backend data.
+
+### Backend Result
+The Firestore backend was configured successfully, and task data was stored and verified in the `tasks` collection.
 
 ### Screen Recording
-A screen recording demonstrating the Firebase Firestore backend and stored task data is included in this repository.
+A screen recording demonstrating the backend database and stored task data is included in this repository.

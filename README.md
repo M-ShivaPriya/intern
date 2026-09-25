@@ -18,11 +18,12 @@ A Task Management App developed as part of my ApexPlanet internship.The project 
 
   ## Technologies Used
 
-- Flutter
-- Dart
+
 - Firebase Authentication
 - Cloud Firestore
 - GitHub
+- VS Code
+- web-based applications
 
 ## Firebase Integration
 

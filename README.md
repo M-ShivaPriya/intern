@@ -1,9 +1,9 @@
 
-# Task Management App – UI/UX Prototype
+# Task Management App
 
 ## Project Overview
 
-A Task Management App UI/UX prototype designed and developed as part of my ApexPlanet internship.
+A Task Management App developed as part of my ApexPlanet internship.The project includes a user-friendly interface,authentication,task management,and Firebase integration.
 
 ## Features
 
@@ -15,6 +15,43 @@ A Task Management App UI/UX prototype designed and developed as part of my ApexP
 - Interactive navigation between screens
 - Consistent UI styling
 - Responsive layout design
+
+  ## Technologies Used
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- GitHub
+
+## Firebase Integration
+
+Firebase Authentication is used for user authentication, and Cloud Firestore is used to store and manage task data.
+
+## Challenges Faced
+
+- Firebase configuration
+- Authentication setup
+- Firestore integration
+- UI development and testing
+- Debugging application issues
+
+## Learning Outcomes
+
+- Flutter application development
+- Firebase integration
+- Authentication
+- Firestore database operations
+- UI/UX development
+- Debugging
+- GitHub and project documentation
+
+## Future Improvements
+
+- Task reminders
+- Task deadlines
+- Task categories and filters
+- Dark mode
 
 ## Prototype Demo
 
